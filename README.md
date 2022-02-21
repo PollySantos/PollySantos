@@ -1,6 +1,6 @@
 ![Logo](https://github.com/PollySantos/PollySantos/blob/main/My%20Banner.jpeg?raw=true)
 
-<br />
+<br>
 
 <p align="center">OLÁ 👋 !</p>
 
@@ -9,7 +9,7 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 
 ##
 
-<br />
+<br>
 
 <div align="center">
   <a href="https://github.com/pollysantos">
@@ -28,7 +28,7 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
   <img align="center" alt="polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
    
-</div>
+</di>
   
   ##
  
@@ -37,8 +37,8 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 ![Snake animation](https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg)
  
 
- <br />
-<br />
+ <br>
+<br>
 
 <a href="https://www.linkedin.com/in/polianasantos2022/">
   <img align="right" alt="polly- linkedin" width="40px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/338bb84499eb511f3fa2df9f5a5b1a113fff4513/icons8-linkedin.svg" />
