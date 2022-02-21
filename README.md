@@ -14,7 +14,6 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 <div align="center">
   <a href="https://github.com/pollysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
   ### ⚙️Estudando!
@@ -28,11 +27,11 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
   <img align="center" alt="polly-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
    
-</di>
+</div/>
   
   ##
  
-<div>
+<div/>
 
 ![Snake animation](https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg)
  
