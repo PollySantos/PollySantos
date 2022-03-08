@@ -40,7 +40,5 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
 <a href="https://www.linkedin.com/in/polianasantoss/">
   <img align="right" alt="polly- linkedin" width="40px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/338bb84499eb511f3fa2df9f5a5b1a113fff4513/icons8-linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_.zsantos/">
-  <img align="right" alt="polly-instagram" width="40px" src="https://raw.githubusercontent.com/PollySantos/PollySantos/main/icons8-instagram.svg" />
-</a>
+
 
