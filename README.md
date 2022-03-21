@@ -7,16 +7,15 @@
 <br>
 <p align="center">OLÁ 👋 !</p>
 <p align="center">Meu nome é Poliana Santos, sou estudante de Análise e Desenvolvimento de Sistemas.
-Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhi me tornar uma desenvolvedora de excelência. </p>
+Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhi me tornar uma desenvolvedora de excelência.</p>
 
 ##
 
 <br>
 <div align="center">
   <a href="https://github.com/pollysantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
   ### ⚙️Learning!
@@ -27,8 +26,6 @@ Passei muitos anos na área administrativa, esse ano me permiti me reinventar e 
   <img align="center" title="CSS" alt="Polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--FRAMEWORKS:-->
   <img align="center" title="Bootstrap" alt="Polly-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
-  <!--BANCOS:-->
-  <img align="center" title="SQL Server" alt="Lucas-SQLServer" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <!--FERRAMENTAS:--> 
   <img align="center" title="GIT" alt="Polly-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
