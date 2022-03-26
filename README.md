@@ -1,23 +1,18 @@
-<div align="center">
-  <a href="https://github.com/PollySantos/PollySantos/blob/main/My%20Banner.jpeg?raw=true">
-    <img align="center" title="imagen" alt="PollySantos" width="700" src="https://github.com/PollySantos/PollySantos/blob/main/My%20Banner.jpeg?raw=true" style="margin-bottom: 0px;">
-  </a>
-</div>
+### Olá, bem vindos ao meu perfil! 👋
 
-<br>
-<p align="center">OLÁ 👋 !</p>
-<p align="center">Meu nome é Poliana Santos, sou estudante de Análise e Desenvolvimento de Sistemas.
-Passei muitos anos na área administrativa, esse ano me permiti me reinventar e escolhi me tornar uma desenvolvedora de excelência.</p>
+```yaml
+nome: Poliana Santos da Silva
+localizado: Navegantes, Santa Catarina
+educacao: ["Análise e Desenvolvimento de Sistemas"] e ["Resilia Educação"]
+Foco: Focada em aprender front-end e Python
 
-##
-
+```
 <br>
 <div align="center">
   <a href="https://github.com/pollysantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-<div align="center" style="display: inline_block"><br>
  
   ### ⚙️Learning!
   <!--LINGUAGENS:-->
