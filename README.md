@@ -4,7 +4,7 @@
 nome: Poliana Santos da Silva
 localizado: Navegantes, Santa Catarina
 educacao: ["Análise e Desenvolvimento de Sistemas"] e ["Resilia Educação"]
-Foco: Focada em aprender front-end e Python
+Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e Flutter(Dart)
 
 ```
 <br>
