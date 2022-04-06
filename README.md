@@ -3,8 +3,8 @@
 ```yaml
 nome: Poliana Santos da Silva
 localizado: Navegantes, Santa Catarina
-educacao: ["Análise e Desenvolvimento de Sistemas"] e ["Resilia Educação"]
-Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e Flutter(Dart)
+educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM e ["Dev Full Stack"] pela Resilia Educação.
+Foco: Focada em aprender front-end (HTML, CSS, JavaScript) 
 
 ```
 <br>
