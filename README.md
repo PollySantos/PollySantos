@@ -1,4 +1,4 @@
-### Olá, bem vindos ao meu perfil! 👋
+<h2 align="center">Olá, me chamo Poliana Santos! <br>Bem vindo ao meu perfil.</h2>
 
 ```yaml
 nome: Poliana Santos da Silva
@@ -8,14 +8,18 @@ Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de 
 
 ```
 <br>
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Stats:
+
 <div align="center">
   <a href="https://github.com/pollysantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br>
+<br>
   <!--LINGUAGENS:-->
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block">
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="Polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Javascript" alt="Polly-Js" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,10 +37,11 @@ Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de 
  </div/>
   
   ##
- 
-<div align="center">
+ <!--CONTATO:-->
   <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/polianasantoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/polianasantoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
+  <p>🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
 <img src="https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg">
 <br>
 <a align="center" href="https://github.com/pollysantos">
