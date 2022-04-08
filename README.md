@@ -18,6 +18,8 @@ Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de 
 </div>
 <br>
 <br>
+  
+  <h4>Learning</h4>
   <!--LINGUAGENS:-->
   <div style="display: inline_block">
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
