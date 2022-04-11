@@ -1,4 +1,4 @@
-<h2 align="center">Olá, me chamo Poliana Santos! <br>Bem vindo ao meu perfil.</h2>
+<h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil.</h2>
 
 ```yaml
 nome: Poliana Santos da Silva
