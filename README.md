@@ -43,7 +43,7 @@ Stack: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de
   
   ## 
  <!--CONTATO:-->
-  <a href="https://www.linkedin.com/in/polianasantoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/polianasantoss"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/pollysantos" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <br>
