@@ -1,10 +1,11 @@
 <h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil.</h2>
 
 ```yaml
-nome: Poliana Santos da Silva
-localizado: Navegantes, Santa Catarina
-educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM e ["Dev Full Stack"] pela Resilia Educação.
-Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de dados, git, nodejs)
+Nome: Poliana Santos da Silva
+Localização: Navegantes, Santa Catarina
+Educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM e ["Dev Full Stack"] pela Resilia Educação.
+Início da trajetória: fevereiro/2022
+Stack: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de dados, git, nodejs)
 
                                       DESENVOLVEDORA FULL STACK EM FORMAÇÃO
 
@@ -40,10 +41,11 @@ Foco: Focada em aprender front-end (HTML, CSS, JavaScript) e back-and (banco de 
   <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
  </div/>
   
-  ##
+  ## 
  <!--CONTATO:-->
-  <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/polianasantoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/pollysantos" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <br>
   <p>🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
 <img src="https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg">
