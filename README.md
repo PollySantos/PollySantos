@@ -3,9 +3,8 @@
 ```yaml
 Nome: Poliana Santos da Silva
 Localização: Navegantes, Santa Catarina
-Educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM e ["Dev Full Stack"] pela Resilia Educação.
+Educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM (06/2024) e ["Dev Full Stack"] pela Resilia Educação (07/2022).
 Início da trajetória: fevereiro/2022
-Stack: Focada em aprender front-end (HTML, CSS, JavaScript, ReactJS) e back-and (banco de dados, git, nodeJS)
 
                                       DESENVOLVEDORA FULL STACK EM FORMAÇÃO
 
