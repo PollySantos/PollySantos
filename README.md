@@ -35,7 +35,7 @@ Início da trajetória: fevereiro/2022
   <img align="center" title="GIT" alt="Polly-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
    <!--GIF:--> 
-  <img align="right" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
+  <img align="left" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
  </div/>
   
   ## 
