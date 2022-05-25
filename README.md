@@ -34,10 +34,6 @@ Início da trajetória: fevereiro/2022
   <!--FERRAMENTAS:--> 
   <img align="center" title="GIT" alt="Polly-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
-   <!--GIF:--> 
-  <img align="left" alt="polly-pic" height="100" style="border-radius:45px;" src="https://github.com/PollySantos/PollySantos/blob/main/Gif-%20Sawako.gif?raw=true">
- </div/>
-  
   ## 
  <!--CONTATO:-->
   <a href="https://www.linkedin.com/in/polianasantoss"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
