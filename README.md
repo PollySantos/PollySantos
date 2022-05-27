@@ -23,11 +23,11 @@ Início da trajetória: fevereiro/2022
   
   <h2 id="projetos">  Projetos mais importantes 📌</h2>
 
-- [x] [Lançamento de Produto - Dev Courser](https://pollysantos.github.io/Projeto_DevCourse/) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
-- [x] [RPG_JogodeEscolhas](https://pollysantos.github.io/RPG_JogodeEscolhas/) (HTML, CSS, JavaScript, Git)
-- [x] [APOD - Astronomy Picture Of the Day](https://pollysantos.github.io/Projeto_APOD_Nasa/) (HTML, CSS, JavaScript, JQuery, API, Git)
-- [x] [Sistema codificação e decoficação](https://pollysantos.github.io/Sistema_Codificacao_Decodificacao/) (JavaScript, Git, HTML, CSS)
-- [x] [Pokemon-API](https://pollysantos.github.io/Pokemon_API/) (HTML, CSS, javascript, Jquery, Git, CSS)
+-  [Lançamento de Produto - Dev Courser](https://pollysantos.github.io/Projeto_DevCourse/) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+-  [RPG_JogodeEscolhas](https://pollysantos.github.io/RPG_JogodeEscolhas/) (HTML, CSS, JavaScript, Git)
+-  [APOD - Astronomy Picture Of the Day](https://pollysantos.github.io/Projeto_APOD_Nasa/) (HTML, CSS, JavaScript, JQuery, API, Git)
+-  [Sistema codificação e decoficação](https://pollysantos.github.io/Sistema_Codificacao_Decodificacao/) (JavaScript, Git, HTML, CSS)
+-  [Pokemon-API](https://pollysantos.github.io/Pokemon_API/) (HTML, CSS, javascript, Jquery, Git, CSS)
   
   ##
   
@@ -37,6 +37,7 @@ Início da trajetória: fevereiro/2022
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="Polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Javascript" alt="Polly-Js" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" title="Typescript" alt="Polly-Ts" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" title="Java" alt="Polly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <!--FRAMEWORKS:--> 
   <!--BANCOS:-->
