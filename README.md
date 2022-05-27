@@ -31,7 +31,7 @@ Início da trajetória: fevereiro/2022
   
   ##
   
-  <h3>Tecnologias onde possuo conhecimento</h3>
+  <h3>Learning 💻</h3>
   <!--LINGUAGENS:-->
   <div style="display: inline_block">
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,6 +40,7 @@ Início da trajetória: fevereiro/2022
     <img align="center" title="Typescript" alt="Polly-Ts" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" title="Java" alt="Polly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <!--FRAMEWORKS:--> 
+    <img align="center" title="Spring" alt="Polly-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <!--BANCOS:-->
   <img align="center" title="MySql" alt="Polly-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!--FERRAMENTAS:--> 
