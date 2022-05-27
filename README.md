@@ -21,7 +21,17 @@ Início da trajetória: fevereiro/2022
 <br>
 <br>
   
-  <h4>Learning</h4>
+  <h2 id="projetos">  Projetos mais importantes 📌</h2>
+
+- [x] [Lançamento de Produto - Dev Courser](https://pollysantos.github.io/Projeto_DevCourse/) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+- [x] [RPG_JogodeEscolhas](https://pollysantos.github.io/RPG_JogodeEscolhas/) (HTML, CSS, JavaScript, Git)
+- [x] [APOD - Astronomy Picture Of the Day](https://pollysantos.github.io/Projeto_APOD_Nasa/) (HTML, CSS, JavaScript, JQuery, API, Git)
+- [x] [Sistema codificação e decoficação](https://pollysantos.github.io/Sistema_Codificacao_Decodificacao/) (JavaScript, Git, HTML, CSS)
+- [x] [Pokemon-API](https://pollysantos.github.io/Pokemon_API/) (HTML, CSS, javascript, Jquery, Git, CSS)
+  
+  ##
+  
+  <h3>Tecnologias onde possuo conhecimento</h3>
   <!--LINGUAGENS:-->
   <div style="display: inline_block">
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
