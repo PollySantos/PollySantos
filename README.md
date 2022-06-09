@@ -6,7 +6,7 @@ Localização: Navegantes, Santa Catarina
 Educacao: ["Análise e Desenvolvimento de Sistemas"] pela FAM (06/2024) e ["Dev Full Stack"] pela Resilia Educação (07/2022).
 Início da trajetória: março/2022
 
-                                      DESENVOLVEDORA FULL STACK EM FORMAÇÃO
+                                      DESENVOLVEDORA EM FORMAÇÃO
 
 ```
 <br>
@@ -37,7 +37,6 @@ Início da trajetória: março/2022
   <img align="center" title="HTML" alt="Polly-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="Polly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Javascript" alt="Polly-Js" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" title="Typescript" alt="Polly-Ts" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" title="Java" alt="Polly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <!--FRAMEWORKS:--> 
     <img align="center" title="Spring" alt="Polly-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
