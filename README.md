@@ -1,4 +1,4 @@
-<h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil.</h2>
+<h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil!</h2>
 
 ```yaml
 Nome: Poliana Santos da Silva
@@ -6,7 +6,14 @@ Localização: Navegantes, Santa Catarina
 Educacao: ["Dev Full Stack"] pela Resilia Educação e ["Análise e Desenvolvimento de Sistemas"] pela FAM (06/2024).
 Início da trajetória: março/2022
 
-                                      DESENVOLVEDORA EM FORMAÇÃO
+Objetivos desse espaço: 
+
+* Armazenar códigos já produzidos para consulta/estudo futuro;
+* Usar como portfólio;
+* Conhecer os projetos de outros usuários para aumentar minhas referências; 
+* Local seguro para que eu não perca o que foi produzido na minha jornada como Dev;
+
+                                      DESENVOLVEDORA JAVA FULLSTACK (EM FORMAÇÃO)
 
 ```
 <br>
