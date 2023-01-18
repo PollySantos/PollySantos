@@ -3,7 +3,7 @@
 ```yaml
 Nome: Poliana Santos da Silva
 Localização: Navegantes, Santa Catarina
-Educacao: ["Dev Full Stack"] pela Resilia Educação e ["Análise e Desenvolvimento de Sistemas"] pela FAM (06/2024).
+Educacao: ["Dev Full Stack"] pela Resilia Educação e cursando ["Análise e Desenvolvimento de Sistemas"] pela FAM.
 Início da trajetória: março/2022
 
 Objetivos desse espaço: 
@@ -22,13 +22,11 @@ Objetivos desse espaço:
 
 <div align="center">
   <a href="https://github.com/pollysantos">
-  <img width="47.8%" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="47.8%" src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=gotham"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&layout=compact&langs_acount=7&theme=gotham"/>
 </div>
 <br>
 <br>
-  
-  <h2 id="projetos">  Projetos mais importantes 📌</h2>
 
 -  [Lançamento de Produto - Dev Courser](https://pollysantos.github.io/Projeto_DevCourse/) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 -  [RPG_JogodeEscolhas](https://pollysantos.github.io/RPG_JogodeEscolhas/) (HTML, CSS, JavaScript, Git)
@@ -58,7 +56,6 @@ Objetivos desse espaço:
  <!--CONTATO:-->
   <a href="https://www.linkedin.com/in/polianasantoss"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/pollysantos" target="_blank"><img src="https://img.shields.io/badge/-codepen-%FF7F3F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <br>
   <p>🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
 <img src="https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg">
