@@ -45,8 +45,6 @@ Objetivos desse espaço:
    <img align="center" title="Java" alt="Polly-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <!--FRAMEWORKS:--> 
     <img align="center" alt="Polly-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Polly-jQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/jquery/jquery-original-wordmark.svg">
-    <img align="center" title="Spring" alt="Polly-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <!--BANCOS:-->
   <img align="center" title="MySql" alt="Polly-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!--FERRAMENTAS:--> 
