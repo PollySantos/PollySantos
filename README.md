@@ -6,14 +6,8 @@ Localização: Navegantes, Santa Catarina
 Educacao: ["Dev Full Stack"] pela Resilia Educação e cursando ["Análise e Desenvolvimento de Sistemas"] pela FAM.
 Início da trajetória: março/2022
 
-Objetivos desse espaço: 
 
-* Armazenar códigos já produzidos para consulta/estudo futuro;
-* Usar como portfólio;
-* Conhecer os projetos de outros usuários para aumentar minhas referências; 
-* Local seguro para que eu não perca o que foi produzido na minha jornada como Dev;
-
-                                      DESENVOLVEDORA JAVA FULLSTACK (EM FORMAÇÃO)
+                                   
 
 ```
 <br>
