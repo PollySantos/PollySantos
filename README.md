@@ -1,11 +1,7 @@
 <h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil!</h2>
 
 ```yaml
-Nome: Poliana Santos da Silva
-Localização: Navegantes, Santa Catarina
-Educacao: ["Dev Full Stack"] pela Resilia Educação e cursando ["Análise e Desenvolvimento de Sistemas"] pela FAM.
 Início da trajetória: março/2022
-
 
                                    
 
@@ -45,9 +41,7 @@ Início da trajetória: março/2022
   <img align="center" title="GIT" alt="Polly-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   ## 
- <!--CONTATO:-->
-  <a href="https://www.linkedin.com/in/polianasantoss"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:zpolianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <br>
   <p>🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
 <img src="https://github.com/pollysantos/pollysantos/blob/output/github-contribution-grid-snake.svg">
