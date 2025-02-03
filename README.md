@@ -1,11 +1,5 @@
 <h2 align="center">Olá, me chamo Poliana! <br>  Bem vindo ao meu perfil!</h2>
 
-```yaml
-Início da trajetória: março/2022
-
-                                   
-
-```
 <br>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> My Stats:
