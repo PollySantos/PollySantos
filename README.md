@@ -10,7 +10,7 @@
   
   ## 
 
-<div align="left">
+<div align="center">
   <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png height="35" alt="java logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" height="30" alt="spring logo"  />
@@ -32,14 +32,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   </a>
   <a href="https://www.instagram.com/i.remaerd/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://br.linkedin.com/in/polianasantoss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    </a>
 </div>
 
 ###
