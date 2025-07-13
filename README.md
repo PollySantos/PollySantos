@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a [Poliana Santos] 👩‍💻</h1>
 
-<p align="center">QA 💡 | Desenvolvedora Java ☕ | JavaScript 🌐</p>
+<p align="center">QA 💡 | Desenvolvedora Java ☕</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/polianasantoss/" target="_blank">
