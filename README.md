@@ -16,15 +16,15 @@
 
 ---
 
-### 👩‍🔧 Sobre mim
+### 👩‍🔧 About Me 
 
-Sou Gestora de Qualidade com muitos anos de experiência em garantir a excelência dos processos e entregar produtos de alta qualidade em ambientes dinâmicos e desafiadores. Durante minha trajetória profissional, percebi o vasto leque de possibilidades no mundo da tecnologia e decidi expandir minhas competências, buscando uma especialização sólida em Quality Assurance (QA) pela Compass UOL.
+I'm a Quality Manager with extensive experience ensuring process excellence and delivering high-quality products in dynamic, challenging environments. Throughout my career, I recognized the vast potential within the tech world and decided to expand my skill set, pursuing a solid specialization in Quality Assurance (QA) through Compass UOL.
 
-Além disso, participei de um Bootcamp Full Stack pela Resilia, o que me proporcionou uma visão ampla de desenvolvimento de software. Atualmente, estou cursando Engenharia de Software na Universidade Aberta de Portugal, onde moro e continuo me aprofundando nas áreas de programação, arquitetura de sistemas e metodologias ágeis.
+Additionally, I completed a Full Stack Bootcamp with Resilia, which gave me a comprehensive understanding of software development. Currently, I'm pursuing a degree in Software Engineering at Universidade Aberta de Portugal, where I live and continue to delve into programming, system architecture, and agile methodologies.
 
-Com o tempo, aprimorei minha expertise em testes automatizados, integração contínua e práticas de DevOps, buscando sempre aplicar os melhores métodos para garantir a qualidade em todas as fases do ciclo de vida do software.
+Over time, I've honed my expertise in automated testing, continuous integration, and DevOps practices, always striving to apply the best methods to ensure quality throughout the entire software development lifecycle.
 
-Meu objetivo é continuar evoluindo, agregando valor às equipes de desenvolvimento e aprimorando as práticas de QA para atender as demandas cada vez mais exigentes do mercado de tecnologia.
+My goal is to keep evolving, adding value to development teams, and refining QA practices to meet the increasingly demanding needs of the tech market.
 
 ---
 
