@@ -18,13 +18,13 @@
 
 ### 👩‍🔧 About Me 
 
-I'm a Quality Manager with extensive experience ensuring process excellence and delivering high-quality products in dynamic, challenging environments. Throughout my career, I recognized the vast potential within the tech world and decided to expand my skill set, pursuing a solid specialization in Quality Assurance (QA) through Compass UOL.
+I'm a Quality Manager with extensive experience ensuring process excellence and delivering high-quality products in dynamic, challenging environments. Throughout my career, I've recognized the immense potential of the tech world and decided to broaden my skill set, specializing in Quality Assurance (QA) through Compass UOL.
 
-Additionally, I completed a Full Stack Bootcamp with Resilia, which gave me a comprehensive understanding of software development. Currently, I'm pursuing a degree in Software Engineering at Universidade Aberta de Portugal, where I live and continue to delve into programming, system architecture, and agile methodologies.
+Additionally, I completed a Full Stack Bootcamp with Resilia, which gave me a comprehensive understanding of software development. I'm currently pursuing a Software Engineering degree at Universidade Aberta de Portugal, where I live and continue to dive deep into programming, system architecture, and agile methodologies. My passion for development has led me to focus particularly on Java backend, where I apply concepts of Object-Oriented Programming (OOP) and design patterns to build robust and efficient systems, leveraging frameworks like Spring Boot to create scalable APIs and services.
 
-Over time, I've honed my expertise in automated testing, continuous integration, and DevOps practices, always striving to apply the best methods to ensure quality throughout the entire software development lifecycle.
+I've progressively honed my expertise in automated testing, continuous integration, and DevOps practices, always striving to apply best-in-class methods to ensure quality across the entire software development lifecycle. I have hands-on experience with automation tools like Selenium and JUnit, and I use Maven for dependency management and Git for version control, ensuring a cohesive and professional workflow.
 
-My goal is to keep evolving, adding value to development teams, and refining QA practices to meet the increasingly demanding needs of the tech market.
+My goal is to continue evolving, adding significant value to development teams, and refining QA practices to meet the increasingly demanding needs of the tech market.
 
 ---
 
@@ -75,8 +75,19 @@ My goal is to keep evolving, adding value to development teams, and refining QA 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pollysantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pollysantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="160" alt="languages graph"  />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true&theme=aura"
+    media="(prefers-color-scheme: dark)" height="160" alt="stats graph"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pollysantos&show_icons=true" />
+</picture>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollysantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="160" alt="languages graph"  />
 </div>
   
   ## 
@@ -87,14 +98,7 @@ My goal is to keep evolving, adding value to development teams, and refining QA 
 
 <img src="https://raw.githubusercontent.com/pollysantos/pollysantos/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pollysantos/count.svg?"  />
-</div>
-
 ###
 
   <p align="center">🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
-
-
-
 
