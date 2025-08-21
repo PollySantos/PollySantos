@@ -9,9 +9,6 @@
   <a href="https://outlook.live.com/zpolianasantos01@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=outlook&logoColor=white" alt="Outlook">
   </a>
-  <a href="https://instagram.com/i.remaerd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 ---
