@@ -25,9 +25,9 @@ My goal is to continue evolving, adding significant value to development teams, 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
-#### 👩‍🔬 QA e Testes
+#### 👩‍🔬 QA & Testing
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -35,7 +35,7 @@ My goal is to continue evolving, adding significant value to development teams, 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-#### 📋 Gerenciamento de Projetos
+#### 📋 Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### 💻 Back-end
@@ -49,7 +49,7 @@ My goal is to continue evolving, adding significant value to development teams, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### 🛢️ Banco de Dados
+#### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -64,10 +64,10 @@ My goal is to continue evolving, adding significant value to development teams, 
 
 ---
 
-### ✨ Curiosidades
-- 💬 Apaixonada por qualidade de software e automação inteligente.
-- 📚 Sempre estudando algo novo, atualmente explorando testes em APIs com Robot Framework e integração com Jenkins.
-- 🎯 Em busca de evoluir como Engenheira de Qualidade e contribuir com comunidades tech!
+### ✨ Fun Facts  
+- 💬 Passionate about software quality and smart automation.  
+- 📚 Always learning something new, currently exploring API testing with Robot Framework and Jenkins integration.  
+- 🎯 Looking to grow as a Quality Engineer and contribute to tech communities!
 
 ---
 
@@ -97,5 +97,5 @@ My goal is to continue evolving, adding significant value to development teams, 
 
 ###
 
-  <p align="center">🧠 <spam style="font-style:italic">"A melhor forma de permanecer motivado é estar disposto a evoluir sempre."</spam></p>
+  <p align="center">🧠 <spam style="font-style:italic">"The best way to stay motivated is to always be willing to grow."</spam></p>
 
